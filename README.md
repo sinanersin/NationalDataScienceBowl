@@ -1,4 +1,10 @@
-All files included in this .zip should be placed in the same folder in order for the imports to work.
+# This project was made during MSc. Data Science studies in University of Amsterdam.
+
+It is made by me (Sinan Ersin) and Jan Jetze Beitler.
+
+The project was a small-scale project of the real National Data Science Bowl. 
+
+I cold not find the datasets, though the code is more important.
 
 In the file model.py the final model can be found. The other .py files just contain helper functions.
 
