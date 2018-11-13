@@ -1,4 +1,4 @@
-# This project was made during MSc. Data Science studies in University of Amsterdam.
+### This project was made during MSc. Data Science studies in University of Amsterdam.
 
 It is made by me (Sinan Ersin) and Jan Jetze Beitler.
 
